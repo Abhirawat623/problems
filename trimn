@@ -1,0 +1,6 @@
+// const text="         hola!! I love ";
+// console.log(text.length);
+// console.log(text.trim().substring(0,6));
+
+const hello="hello";
+console.log(hello.charCodeAt(0));

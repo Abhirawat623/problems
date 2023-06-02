@@ -1,0 +1,7 @@
+function add(x,y){
+    return x+y; 
+     //this throws the value back to the function above;;;; it will stop the flow of code
+}
+// console.log(add(82,18));
+const res = add(415,4554);
+console.log(res);
