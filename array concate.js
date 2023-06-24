@@ -10,4 +10,4 @@ console.log(arr4)
 let arr5 = arr4.concat(arr1,arr3,arr2);
 console.log(arr5)
 
-halsbrkabsh
+//concate arays => putting arrays with each others
