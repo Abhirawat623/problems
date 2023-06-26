@@ -49,4 +49,4 @@
     const result = sayHi.bind(user3,"btech-exe");
     result(2022);
     user1.displayMessage();
-   
+   //used to put other data in repsectiv arrays by using functions
