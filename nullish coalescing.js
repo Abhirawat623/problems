@@ -5,4 +5,4 @@ console.log(name ?? "rawat");
 
 // let a =12;
 // let b ;
-// console.log(a + (b ??0));
+// console.log(a + (b ??0)); operator is a logical operator that returns its right-hand side operand when its left-hand side operand is null or undefined, and otherwise returns its left-hand side operand.
